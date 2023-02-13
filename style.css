@@ -1,0 +1,10 @@
+.btn{
+	background-color: rgb(111, 83, 138);
+	color: white;
+	border:none;
+}
+.active {
+	background-color: blueviolet;
+	color: whitesmoke;
+	border:none;
+}
